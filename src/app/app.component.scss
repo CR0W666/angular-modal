@@ -1,0 +1,24 @@
+.modalButton {
+    display: flex;
+    justify-content: center;
+    justify-self: center;
+    width: 150px;
+    height: 25px;
+    margin: auto;
+}
+
+.modal {
+    margin: auto;
+    margin-top: 250px;
+    
+    width: 500px;
+    height: 50px;
+    background-color: rgb(44, 44, 44);
+    display: flex;
+    justify-content: center;    
+
+}
+#mdto {
+    margin:auto;
+    color: whitesmoke;
+}

@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'modal';
+  bool = false;
+  clicked() {
+    
+    this.bool = true;
+
+  }
 }
